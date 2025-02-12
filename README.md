@@ -12,16 +12,16 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…\
-# Bookpedia App(Kotlin/Jetpack compose/Kotlin multiplatform) #\
-## Building a “book pedia” app for Android, iOS, and desktop. ##\
-## Highlights ##\
+# Bookpedia App(Kotlin/Jetpack compose/Kotlin multiplatform) 
+## Building a “book pedia” app for Android, iOS, and desktop. 
+## Highlights 
 📱 Cross-Platform Development: building apps for Android, iOS, and desktop using Compose Multiplatform.\
 🔄 App Features: The “book pedia” app includes API integration, local database usage, animations, and navigation.\
 🏗️ Clean Architecture: Emphasizes the separation of presentation, domain, and data layers for maintainable code.\
 🌐 Ktor 3.0: New features in Ktor enhance networking capabilities for Compose Multiplatform applications.\
 🎨 UI Design: Demonstrates structuring the UI for the book list screen with reusable components.\
 ⚙️ Dependency Injection: Highlights the use of Koin for managing dependencies in Kotlin Multiplatform projects.\
-## Key Insights ##\
+## Key Insights 
 🌍 Multiplatform Strategy: Building a cross-platform app showcases the versatility of Compose Multiplatform, allowing developers to reach users on various devices seamlessly.\
 🔍 Robust App Features: Integrating a remote API and local database enhances the app’s functionality, providing users with a rich experience while searching for books.\
 🏗️ Architectural Best Practices: Implementing clean architecture by separating concerns allows for better maintainability, making it easier to update and scale the app.\
